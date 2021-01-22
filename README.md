@@ -17,3 +17,6 @@ Instructions:
 
 Follow the instuctions in the video from this link:
 https://drive.google.com/drive/u/0/folders/1NOOyVhu7Qg4Ikp3BvIHC-9u5EYOo7-Bu
+
+
+![](https://github.com/balasubramaniansanjana/Android_studio_Basic_App/blob/master/app/src/main/res/drawable/Screen.PNG)
