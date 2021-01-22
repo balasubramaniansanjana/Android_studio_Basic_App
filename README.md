@@ -7,9 +7,9 @@ Instructions:
 
 2: Click on empty activity.
 
-3: Type in the name of your project ( where the first alphabet is capital and then followed by your desired characteres or numbers) and then choose the location to save your program.
+3: Type in the name of your project ( where the first alphabet is capital and then followed by your desired characters or numbers) and then choose the location to save your program.
 
-4: Choose Java as the language and the your desired android version you wish to run the app.
+4: Choose Java as the language and then your desired android version you wish to run the app.
 
 5: Click on finish
 
