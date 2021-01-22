@@ -3,7 +3,7 @@ Basic Android Application to add two numbers
 
 Instructions:
 
-1: Create New project
+1: Create New project.
 
 2: Click on empty activity.
 
@@ -11,7 +11,7 @@ Instructions:
 
 4: Choose Java as the language and then your desired android version you wish to run the app.
 
-5: Click on finish
+5: Click on finish.
 
 #
 
